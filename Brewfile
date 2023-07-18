@@ -23,55 +23,27 @@ brew 'bash'
 brew 'homebrew/dupes/grep'
 
 # Install Binaries
-brew 'awscli'
 brew 'git'
-brew 'tree'
-brew 'mackup'
-brew 'mas'
 brew 'node'
-brew 'trash'
 brew 'wget'
+brew 'mas'
 
 # Development
-brew 'php71'
-brew 'php71-intl'
-brew 'php71-imagick'
+brew 'php'
+brew 'php-intl'
+brew 'php-imagick'
+brew 'composer'
 brew 'mysql'
 
 # Apps
-cask 'aerial'
-cask 'alfred'
-cask 'caffeine'
-cask 'dropbox'
 cask 'docker'
 cask 'google-chrome'
-cask 'helium'
-cask 'licecap'
-cask 'insomnia'
-cask 'iterm2'
-cask 'java'
-cask 'mysqlworkbench'
-cask 'now'
-cask 'phpstorm'
 cask 'postman'
-cask 'screenflow'
-cask 'sequel-pro'
-cask 'shuttle'
-cask 'slack'
-cask 'sublime-text'
-cask 'spotify'
-cask 'transmit'
-cask 'vagrant'
-cask 'virtualbox'
-cask 'virtualbox-extension-pack'
-cask 'vlc'
-
-# Quicklook
-cask 'qlcolorcode'
-cask 'qlmarkdown'
-cask 'quicklook-json'
-cask 'quicklook-csv'
-cask 'qlstephen'
+cask 'visual-studio-code'
+cask 'tableplus'
+cask 'warp'
+cask 'firefox'
+cask 'microsoft-edge'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
@@ -80,6 +52,5 @@ cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
 # Install Mac App Store apps
-mas '1Password', id: 443987910
-mas 'Gapplin', id: 768053424
-mas 'Unsplash Wallpapers', id: 1284863847
+mas 'Microsoft Remote Desktop', id: 1295203466
+
