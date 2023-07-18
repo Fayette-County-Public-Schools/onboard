@@ -44,6 +44,7 @@ cask 'tableplus'
 cask 'warp'
 cask 'firefox'
 cask 'microsoft-edge'
+cask 'phpmon'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
